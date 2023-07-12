@@ -11,8 +11,15 @@ List files and folders in the current directory.
 </ul>
 <p>Example of input: <b>ls -la</b></p>
 
+## pwd command
+Shows current directory
+<p>Example of input: <b>pwd</b></p>
+
 ## cd command
 Change directory from the current directory to another one.
+<ul>
+  <li><b>~</b> back to main directory</li>
+</ul>
 <p>Example of input: <b>cd /home</b></p>
 
 ## touch command
@@ -161,9 +168,15 @@ The ps command lists the currently running process.
 Kill a process.
 <p>Example of input: <b>pkill processName</b></p>
 
+## nano command
+You can edit file, if it doesn't exist command will create new one
+
 ## Get the version of GTK
 <p>Example of input: <b>dpkg -s libgtk-3-0|grep '^Version'</b></p>
 
+## sudo command
+Runs command as superuser
+<p>Example of input: <b>sudo touch</b></p>
 
 
 
