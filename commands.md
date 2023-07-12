@@ -161,6 +161,8 @@ The ps command lists the currently running process.
 Kill a process.
 <p>Example of input: <b>pkill processName</b></p>
 
+## Get the version of GTK
+<p>Example of input: <b>dpkg -s libgtk-3-0|grep '^Version'</b></p>
 
 
 
