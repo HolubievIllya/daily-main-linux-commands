@@ -108,6 +108,11 @@ To find a file in your system, the locate command will search the system for the
 Simply prints today’s date. Just type date on the shell.
 <p>Example of input: <b>date</b></p>
 
+## find command
+Finds all files with flags you provided
+<p>Example of input: <b>find . -type f -name "*.txt"</b></p>
+
+
 ## tar command
 Combines several files into an archive and compression if you want.
 <ul>
