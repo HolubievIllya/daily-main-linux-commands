@@ -143,7 +143,7 @@ Searches for a string in the specified files and displays which line contains th
   <li><b>-i</b> insensitive search and ignore case</li>
   <li><b>-l</b> displays file name, not the text lines</li>
 </ul>
-<p>Example of input: <b>grep –Ril mystring /home</b></p>
+<p>Example of input: <b>grep "print" main.py</b></p>
 
 ## passwd command
 Used to change your user password.
@@ -175,6 +175,7 @@ Kill a process.
 
 ## nano command
 You can edit file, if it doesn't exist command will create new one
+<p>Example of input: <b>nano</b></p>
 
 ## Get the version of GTK
 <p>Example of input: <b>dpkg -s libgtk-3-0|grep '^Version'</b></p>
@@ -183,7 +184,37 @@ You can edit file, if it doesn't exist command will create new one
 Runs command as superuser
 <p>Example of input: <b>sudo touch</b></p>
 
+## top command
+Provides with information about all running processes
+<p>Example of input: <b>top</b></p>
 
+## free command
+Shows memory usage
+<p>Example of input: <b>free -h</b></p>
 
+## tree command
+Shows the hierarchy of files and folders in directory
+<p>Example of input: <b>tree</b></p>
 
+## ping command
+Shows the ping of the website
+<ul>
+  <li><b>-c amount</b> display ping amount time</li>
+</ul>
+<p>Example of input: <b>ping www.google.com</b></p>
 
+## host command
+Shows the host information about website
+<p>Example of input: <b>host website</b></p>
+
+## netstat command
+Show all open connections on your ps 
+<p>Example of input: <b>netstat</b></p>
+
+## ifconfig command
+Shows ip and etc of your pc
+<p>Example of input: <b>ifconfig</b></p>
+
+## w command
+Shows all users on your machine
+<p>Example of input: <b>w</b></p>
