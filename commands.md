@@ -109,9 +109,15 @@ Simply prints today’s date. Just type date on the shell.
 <p>Example of input: <b>date</b></p>
 
 ## find command
-Finds all files with flags you provided
+Finds all files with flags you provided.
 <p>Example of input: <b>find . -type f -name "*.txt"</b></p>
 
+## df command
+Displays the disk space used in the file system.
+<ul>
+  <li><b>–h</b> displays space in gb and mb</li>
+</ul>
+<p>Example of input: <b>df"</b></p>
 
 ## tar command
 Combines several files into an archive and compression if you want.
