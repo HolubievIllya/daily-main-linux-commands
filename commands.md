@@ -224,3 +224,21 @@ Shows ip and etc of your pc
 ## w command
 Shows all users on your machine
 <p>Example of input: <b>w</b></p>
+
+## wc command
+Finds out the number of newline count, word count, byte and character count in the files specified by the File arguments
+<ul>
+  <li><b>-l</b> prints the number of lines in a file</li>
+  <li><b>-w</b> prints the number of words in a file</li>
+  <li><b>-c</b> displays the count of bytes in a file</li>
+  <li><b>-m</b> prints the count of characters from a file</li>
+  <li><b>-L</b> prints only the length of the longest line in a file</li>
+</ul>
+<p>Example of input: <b>wc -L</b></p>
+
+## shuf command
+Writes a random permutation of the input lines to standard output.
+<ul>
+  <li><b>-n</b> prints the number of lines in a file</li>
+</ul>
+<p>Example of input: <b>shuf -n 25 hello.txt</b></p>
