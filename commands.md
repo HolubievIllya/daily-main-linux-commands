@@ -135,8 +135,12 @@ This command will pack and compress all files in folder myfiles to a compressed 
 This command will decompress the archive.
 
 ## cat command
-Display file content to screen without limits.
+Displays file content to screen without limits.
 <p>Example of input: <b>cat myfile.txt</b></p>
+
+## tail command
+Output the end of a file
+<p>Example of input: <b>tail test.txt</b></p>
 
 ## less command
 Displays file content with a scroll screen so you can navigate between pages using PgUp, PgDn, Home, and End.
