@@ -112,6 +112,10 @@ Simply prints today’s date. Just type date on the shell.
 Finds all files with flags you provided.
 <p>Example of input: <b>find . -type f -name "*.txt"</b></p>
 
+## echo command
+Used to display line of text/string that are passed as an argument.
+<p>Example of input: <b>echo "Hello, world!"</b></p>
+
 ## df command
 Displays the disk space used in the file system.
 <ul>
