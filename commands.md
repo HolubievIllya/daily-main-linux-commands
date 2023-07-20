@@ -13,6 +13,10 @@ List files and folders in the current directory.
 
 ## pwd command
 Shows current directory
+<ul>
+  <li><b>-L</b> prints the symbolic path</li>
+  <li><b>-P</b> prints the actual path</li>
+</ul>
 <p>Example of input: <b>pwd</b></p>
 
 ## cd command
