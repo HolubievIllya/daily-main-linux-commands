@@ -254,3 +254,10 @@ Writes a random permutation of the input lines to standard output.
   <li><b>-n</b> prints the number of lines in a file</li>
 </ul>
 <p>Example of input: <b>shuf -n 25 hello.txt</b></p>
+
+## cmp command
+Allows you to check if two files are identical.
+<ul>
+  <li><b>-b</b> prints differing bytes</li>
+</ul>
+<p>Example of input: <b>cmp hello.txt test.txt</b></p>
