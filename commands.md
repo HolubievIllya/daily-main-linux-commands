@@ -179,6 +179,13 @@ Calculates the disk usage of a file or a directory.
 Reboot the system immediately.
 <p>Example of input: <b>reboot</b></p>
 
+## screen command
+Provides the ability to launch and use multiple shell sessions from a single ssh session.
+<ul>
+  <li><b>–A</b>it force all capabilities into each window’s termcap</li>
+</ul>
+<p>Example of input: <b>screen -a</b></p>
+
 ## halt command
 Shuts down the system, but make sure to close all of your files to avoid data loss.
 <p>Example of input: <b>halt</b></p>
