@@ -66,6 +66,10 @@ Delete file or directory, and you must use –r in case you want to delete a dir
 
 ## mkdir command
 Create a new directory.
+<ul>
+  <li><b>-v</b> prints a message for each created directory</li>
+  <li><b>-m</b> set file mode</li>
+</ul>
 <p>Example of input: <b>mkdir NewDir</b></p>
 
 ## rmdir command
