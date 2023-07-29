@@ -74,6 +74,10 @@ Create a new directory.
 
 ## rmdir command
 Delete a directory.
+<ul>
+  <li><b>-p</b> removes the directory, including all its ancestors</li>
+  <li><b>-v</b> displays verbose information for every directory</li>
+</ul>
 <p>Example of input: <b>rmdir NewDir/</b></p>
 
 ## chown command
