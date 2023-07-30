@@ -36,6 +36,10 @@ The touch command is used to create an empty file.
 
 ## rm command
 You can easily delete single files
+<ul>
+  <li><b>–i</b> will ask before deleting each file</li>
+  <li><b>–r</b> will recursively delete a directory and all its contents (normally rm will not delete directories, while rmdir will only delete empty directories)</li>
+</ul>
 <p>Example of input: <b>rm name</b></p>
 
 ## cp command
@@ -158,9 +162,25 @@ Displays file content to screen without limits.
 Output the end of a file
 <p>Example of input: <b>tail test.txt</b></p>
 
+## more command
+Command is used to view the text files in the command prompt.
+<ul>
+  <li><b>–p</b> clears the screen and then displays the text</li>
+  <li><b>–s</b> squeezes multiple blank lines into one single blank line</li>
+</ul>
+<p>Example of input: <b>more -p sample.txt</b></p>
+
 ## less command
 Displays file content with a scroll screen so you can navigate between pages using PgUp, PgDn, Home, and End.
 <p>Example of input: <b>less myfile</b></p>
+
+## head command
+<ul>
+  <li><b>–n</b> prints a specific number of lines from the beginning of a file</li>
+  <li><b>–c</b> prints a specific number of bytes from the beginning of a file</li>
+  <li><b>–v</b> data from the specified file is always preceded by its file name</li>
+</ul>
+<p>Example of input: <b>head -n 5 sample.txt</b></p>
 
 ## grep command
 Searches for a string in the specified files and displays which line contains the matched string.
@@ -170,6 +190,18 @@ Searches for a string in the specified files and displays which line contains th
   <li><b>-l</b> displays file name, not the text lines</li>
 </ul>
 <p>Example of input: <b>grep "print" main.py</b></p>
+
+## diff command
+Allows you to compare two files line by line.
+<ul>
+  <li><b>–c</b> allows you to view additional information related to the specified files and the changes needed to make them identical</li>
+  <li><b>-u</b> it avoids displaying redundant information</li>
+</ul>
+<p>Example of input: <b>diff text1.txt test2.txt</b></p>
+
+## comm command
+Compare two sorted files line by line and write to standard output.
+<p>Example of input: <b>comm text1.txt test2.txt</b></p>
 
 ## passwd command
 Used to change your user password.
