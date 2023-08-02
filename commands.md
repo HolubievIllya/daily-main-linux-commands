@@ -23,6 +23,7 @@ Shows current directory
 Change directory from the current directory to another one.
 <ul>
   <li><b>~</b> back to main directory</li>
+  <li><b>..</b> move to the parent directory</li>
 </ul>
 <p>Example of input: <b>cd /home</b></p>
 
