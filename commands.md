@@ -32,6 +32,8 @@ The touch command is used to create an empty file.
 <p>Parameters:</p>
 <ul>
   <li><b>–t</b> creates file followed by the time with the following format YYYYMMDDHHMM</li>
+  <li><b>-a</b> changes file access and modification time</li>
+  <li><b>-c</b> does't create n empty file</li>
 </ul>
 <p>Example of input: <b>touch -t 202012011200 test1</b></p>
 
