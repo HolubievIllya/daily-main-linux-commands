@@ -93,6 +93,7 @@ Change the owner of a file or directory.
 <p>Parameters:</p>
 <ul>
   <li><b>–R</b> capital R here means to change ownership of all subdirectories if found, and you must use this parameter if you use the command against a directory</li>
+  <li><b>-f</b> suppresses all error messages except usage messages</li>
 </ul>
 <p>Example of input: <b>chown –R root:root myDir</b></p>
 
