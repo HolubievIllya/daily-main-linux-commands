@@ -135,6 +135,9 @@ Finds all files with flags you provided.
 
 ## echo command
 Used to display line of text/string that are passed as an argument.
+<ul>
+  <li><b>-n</b> used to omit echoing trailing newline</li>
+</ul>
 <p>Example of input: <b>echo "Hello, world!"</b></p>
 
 ## df command
