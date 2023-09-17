@@ -51,6 +51,7 @@ Copy the source to target.
 <ul>
   <li><b>–i</b> interactive mode means waiting for the confirmation if there are files on the target, it will be overwritten</li>
   <li><b>-r</b> recursive copy means include subdirectories if they found</li>
+  <li><b>-u</b> оverwrites the destination file only if the source file is newer than the destination file</li>  
 </ul>
 <p>Example of input: <b>cp –ir sourcedir targetdir</b></p>
 
