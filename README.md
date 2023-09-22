@@ -272,6 +272,10 @@ Shows memory usage
 
 ## tree command
 Shows the hierarchy of files and folders in directory
+<ul>
+  <li><b>-f</b> prints the full path prefix for each file</li>
+  <li><b>-i</b> ignores case when sorting filenames</li>  
+</ul>
 <p>Example of input: <b>tree</b></p>
 
 ## ping command
