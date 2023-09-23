@@ -295,6 +295,10 @@ Shows ip and etc of your pc
 
 ## w command
 Shows all users on your machine
+<ul>
+  <li><b>-u</b> ignores the username when calculating the current process and CPU times</li>
+  <li><b>-i</b> displays the IP address instead of the hostname in the ‘from’ field</li>  
+</ul>
 <p>Example of input: <b>w</b></p>
 
 ## wc command
