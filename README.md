@@ -285,10 +285,6 @@ Shows the ping of the website
 </ul>
 <p>Example of input: <b>ping www.google.com</b></p>
 
-## host command
-Shows the host information about website
-<p>Example of input: <b>host website</b></p>
-
 ## netstat command
 Show all open connections on your ps 
 <p>Example of input: <b>netstat</b></p>
