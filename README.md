@@ -173,6 +173,9 @@ Displays file content to screen without limits.
 
 ## tail command
 Output the end of a file
+<ul>
+  <li><b>-n num</b> prints the last ‘num’ lines instead of last 10 lines</li>
+</ul>
 <p>Example of input: <b>tail test.txt</b></p>
 
 ## more command
