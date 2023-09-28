@@ -104,7 +104,6 @@ Change the permission of a file or directory.
 <ul>
   <li>The mode which consists of 3 parts, owner, group, and others means what will be the permissions for these modes, and you must specify them</li>
   <lihe mode which consists of 3 parts, owner, group, and others means what will be the permissions for these modes, and you must specify them.
-
 The permission is one of the followings:
 
 Read =4
@@ -185,6 +184,10 @@ Command is used to view the text files in the command prompt.
 
 ## less command
 Displays file content with a scroll screen so you can navigate between pages using PgUp, PgDn, Home, and End.
+<ul>
+  <li><b>-f</b> forces less to open non-regular files (a directory or a device-special file)</li>
+  <li><b>-i</b> ignores case sensitivity during search</li>
+</ul>
 <p>Example of input: <b>less myfile</b></p>
 
 ## head command
