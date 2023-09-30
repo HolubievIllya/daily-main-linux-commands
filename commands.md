@@ -133,7 +133,8 @@ Simply prints today’s date. Just type date on the shell.
 Finds all files with flags you provided.
 <ul>
   <li><b>-type</b> filter by file type</li>
-  <li><b>-name</b> filter by file name</li>  
+  <li><b>-name</b> filter by file name</li> 
+  <li><b>-print</b> display the path name of the files found by using the rest of the criteria</li>  
 </ul>
 <p>Example of input: <b>find . -type f -name "*.txt"</b></p>
 
