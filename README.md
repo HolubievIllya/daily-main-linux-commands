@@ -142,6 +142,7 @@ Finds all files with flags you provided.
 Used to display line of text/string that are passed as an argument.
 <ul>
   <li><b>-n</b> used to omit echoing trailing newline</li>
+  <li><b>-e</b> enables the interpretation of backslash escapes</li>  
 </ul>
 <p>Example of input: <b>echo "Hello, world!"</b></p>
 
