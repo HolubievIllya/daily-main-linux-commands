@@ -268,6 +268,9 @@ Runs command as superuser
 
 ## top command
 Provides with information about all running processes
+<ul>
+  <li><b>-a </b> this option is used to solve the processes according to the allocated memory</li>
+</ul>
 <p>Example of input: <b>top</b></p>
 
 ## free command
