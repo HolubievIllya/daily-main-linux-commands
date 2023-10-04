@@ -150,6 +150,7 @@ Used to display line of text/string that are passed as an argument.
 Displays the disk space used in the file system.
 <ul>
   <li><b>–h</b> displays space in gb and mb</li>
+  <li><b>-c</b> displays the output in colon separated format</li>  
 </ul>
 <p>Example of input: <b>df"</b></p>
 
