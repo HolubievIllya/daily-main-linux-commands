@@ -184,6 +184,7 @@ Output the end of a file
 Command is used to view the text files in the command prompt.
 <ul>
   <li><b>–p</b> clears the screen and then displays the text</li>
+  <li><b>-n</b> option displays the line numbers at the beginning of each line</li>
   <li><b>–s</b> squeezes multiple blank lines into one single blank line</li>
 </ul>
 <p>Example of input: <b>more -p sample.txt</b></p>
