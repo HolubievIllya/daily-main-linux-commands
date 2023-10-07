@@ -57,7 +57,7 @@ Copy the source to target.
 
 ## mv command
 Move the source to target and remove the source.
-<p>Parameters:</p>
+<p>Parameters: </p>
 <ul>
   <li><b>–i</b> interactive mode means to wait for the confirmation if there are files on the target, it will be overwritten</li>
   <li><b>–f</b> does not prompt you before overwriting an existing file</li>
