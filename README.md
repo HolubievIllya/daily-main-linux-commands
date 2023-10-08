@@ -171,6 +171,11 @@ This command will decompress the archive.
 
 ## cat command
 Displays file content to screen without limits.
+<ul>
+  <li><b>-n</b> displays line numbers in front of each line in a file</li>
+  <li><b>-b</b> removes the empty lines</li>  
+  <li><b>-е</b> displays a '$' sign at the end of every line</li>   
+</ul>
 <p>Example of input: <b>cat myfile.txt</b></p>
 
 ## tail command
