@@ -128,6 +128,9 @@ To find a file in your system, the locate command will search the system for the
 
 ## date command
 Simply prints today’s date. Just type date on the shell.
+<ul>
+  <li><b>-I</b> displays the date and time in ISO 8601 format</li>
+</ul>
 <p>Example of input: <b>date</b></p>
 
 ## find command
