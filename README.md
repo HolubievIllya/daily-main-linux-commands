@@ -240,7 +240,7 @@ Calculates the disk usage of a file or a directory.
   <li><b>–h</b> display human-readable form</li>
   <li><b>-s</b> summarize the output total size</li>
   <li><b>-a</b> lists the sizes of all files and directories in the given file path</li>  
-  <li><b>-c</b>  adds a line to the bottom of the output that gives you a grand total of all of the disk usage for the file path given</li>    
+  <li><b>-c</b> adds a line to the bottom of the output that gives you a grand total of all of the disk usage for the file path given</li>    
 </ul>
 <p>Example of input: <b>du –hs /home</b></p>
 
@@ -251,7 +251,8 @@ Reboot the system immediately.
 ## screen command
 Provides the ability to launch and use multiple shell sessions from a single ssh session.
 <ul>
-  <li><b>–A</b>it force all capabilities into each window’s termcap</li>
+  <li><b>–A</b> it force all capabilities into each window’s termcap</li>
+  <li><b>-S</b> creates a named session</li>  
 </ul>
 <p>Example of input: <b>screen -a</b></p>
 
