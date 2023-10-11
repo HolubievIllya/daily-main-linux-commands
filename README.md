@@ -44,7 +44,7 @@ You can easily delete single files
   <li><b>–r</b> will recursively delete a directory and all its contents (normally rm will not delete directories, while rmdir will only delete empty directories)</li>
 </ul>
 <p>Example of input: <b>rm name</b></p>
-
+ 
 ## cp command
 Copy the source to target.
 <p>Parameters:</p>
