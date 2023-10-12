@@ -64,6 +64,7 @@ Move the source to target and remove the source.
 </ul>
 <p>Example of input: <b>mv –i sourceFile targetFile</b></p>
 
+
 ## rm command
 Delete file or directory, and you must use –r in case you want to delete a directory.
 <p>Parameters:</p>
