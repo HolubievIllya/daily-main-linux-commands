@@ -11,6 +11,7 @@ List files and folders in the current directory.
 </ul>
 <p>Example of input: <b>ls -la</b></p>
 
+
 ## pwd command
 Shows current directory
 <ul>
