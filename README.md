@@ -305,7 +305,10 @@ Shows the ping of the website
 <p>Example of input: <b>ping www.google.com</b></p>
 
 ## netstat command
-Show all open connections on your ps 
+Show all open connections on your pс
+<ul>
+  <li><b>-D</b>  allows you to see packets coming into and going out of each layer in the communications subsystem along with packets dropped at each layer</li>
+</ul>
 <p>Example of input: <b>netstat</b></p>
 
 ## ifconfig command
