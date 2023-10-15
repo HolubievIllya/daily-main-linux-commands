@@ -236,6 +236,7 @@ Compare two sorted files line by line and write to standard output.
 Used to change your user password.
 <p>Example of input: <b>passwd</b></p>
 
+
 ## du command
 Calculates the disk usage of a file or a directory.
 <ul>
