@@ -135,6 +135,7 @@ Simply prints today’s date. Just type date on the shell.
 </ul>
 <p>Example of input: <b>date</b></p>
 
+
 ## find command
 Finds all files with flags you provided.
 <ul>
