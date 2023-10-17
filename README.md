@@ -20,6 +20,7 @@ Shows current directory
 </ul>
 <p>Example of input: <b>pwd</b></p>
 
+
 ## cd command
 Change directory from the current directory to another one.
 <ul>
