@@ -333,6 +333,7 @@ Finds out the number of newline count, word count, byte and character count in t
 </ul>
 <p>Example of input: <b>wc -L</b></p>
 
+
 ## shuf command
 Writes a random permutation of the input lines to standard output.
 <ul>
