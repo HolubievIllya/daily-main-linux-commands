@@ -101,6 +101,7 @@ Change the owner of a file or directory.
 </ul>
 <p>Example of input: <b>chown –R root:root myDir</b></p>
 
+
 ## chmod command
 Change the permission of a file or directory.
 <p>Parameters:</p>
