@@ -154,6 +154,7 @@ Used to display line of text/string that are passed as an argument.
 </ul>
 <p>Example of input: <b>echo "Hello, world!"</b></p>
 
+
 ## df command
 Displays the disk space used in the file system.
 <ul>
