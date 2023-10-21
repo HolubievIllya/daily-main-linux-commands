@@ -92,6 +92,7 @@ Delete a directory.
 </ul>
 <p>Example of input: <b>rmdir NewDir/</b></p>
 
+
 ## chown command
 Change the owner of a file or directory.
 <p>Parameters:</p>
