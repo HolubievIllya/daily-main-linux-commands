@@ -127,6 +127,7 @@ group: set it to 5, which means 4+1 means read+execute.
 other: set it to 5, which means 4+1 means read+execute.
 Note: execute for a folder, means opening it.
 
+
 ## locate command
 To find a file in your system, the locate command will search the system for the pattern you provide..
 <p>Example of input: <b>locate myfile</b></p>
