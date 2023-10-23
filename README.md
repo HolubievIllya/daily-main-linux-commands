@@ -217,6 +217,7 @@ Displays file content with a scroll screen so you can navigate between pages usi
 </ul>
 <p>Example of input: <b>head -n 5 sample.txt</b></p>
 
+
 ## grep command
 Searches for a string in the specified files and displays which line contains the matched string.
 <ul>
