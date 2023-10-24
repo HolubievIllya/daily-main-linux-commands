@@ -148,6 +148,7 @@ Finds all files with flags you provided.
 </ul>
 <p>Example of input: <b>find . -type f -name "*.txt"</b></p>
 
+
 ## echo command
 Used to display line of text/string that are passed as an argument.
 <ul>
