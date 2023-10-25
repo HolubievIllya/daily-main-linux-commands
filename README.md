@@ -206,6 +206,7 @@ Command is used to view the text files in the command prompt.
 </ul>
 <p>Example of input: <b>more -p sample.txt</b></p>
 
+
 ## less command
 Displays file content with a scroll screen so you can navigate between pages using PgUp, PgDn, Home, and End.
 <p>Example of input: <b>less myfile</b></p>
