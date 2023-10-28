@@ -189,7 +189,7 @@ Displays file content to screen without limits.
   <li><b>-е</b> displays a '$' sign at the end of every line</li>   
 </ul>
 <p>Example of input: <b>cat myfile.txt</b></p>
-
+ 
 ## tail command
 Output the end of a file
 <ul>
