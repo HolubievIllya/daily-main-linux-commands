@@ -57,6 +57,7 @@ Copy the source to target.
 </ul>
 <p>Example of input: <b>cp –ir sourcedir targetdir</b></p>
 
+
 ## mv command
 Move the source to target and remove the source.
 <p>Parameters: </p>
