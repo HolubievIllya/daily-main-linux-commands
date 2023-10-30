@@ -133,6 +133,7 @@ Note: execute for a folder, means opening it.
 To find a file in your system, the locate command will search the system for the pattern you provide..
 <p>Example of input: <b>locate myfile</b></p>
 
+
 ## date command
 Simply prints today’s date. Just type date on the shell.
 <ul>
