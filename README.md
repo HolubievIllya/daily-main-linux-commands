@@ -259,6 +259,7 @@ Calculates the disk usage of a file or a directory.
 </ul>
 <p>Example of input: <b>du –hs /home</b></p>
 
+
 ## reboot command
 Reboot the system immediately.
 <p>Example of input: <b>reboot</b></p>
