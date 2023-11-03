@@ -200,6 +200,7 @@ Output the end of a file
 </ul>
 <p>Example of input: <b>tail test.txt</b></p>
 
+
 ## more command
 Command is used to view the text files in the command prompt.
 <ul>
