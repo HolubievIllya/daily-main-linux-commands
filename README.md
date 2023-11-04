@@ -241,6 +241,7 @@ Allows you to compare two files line by line.
 </ul>
 <p>Example of input: <b>diff text1.txt test2.txt</b></p>
 
+
 ## comm command
 Compare two sorted files line by line and write to standard output.
 <p>Example of input: <b>comm text1.txt test2.txt</b></p>
