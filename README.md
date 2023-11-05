@@ -215,6 +215,7 @@ Command is used to view the text files in the command prompt.
 Displays file content with a scroll screen so you can navigate between pages using PgUp, PgDn, Home, and End.
 <p>Example of input: <b>less myfile</b></p>
 
+
 ## head command
 <ul>
   <li><b>–n</b> prints a specific number of lines from the beginning of a file</li>
