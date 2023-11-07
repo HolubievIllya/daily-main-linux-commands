@@ -183,6 +183,7 @@ This command will pack and compress all files in folder myfiles to a compressed 
 <p>Example of input: <b>tar-xzvf myfiels.tar.gz</b></p>
 This command will decompress the archive.
 
+
 ## cat command
 Displays file content to screen without limits.
 <ul>
