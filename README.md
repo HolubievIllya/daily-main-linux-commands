@@ -236,6 +236,7 @@ Searches for a string in the specified files and displays which line contains th
 </ul>
 <p>Example of input: <b>grep "print" main.py</b></p>
 
+
 ## diff command
 Allows you to compare two files line by line.
 <ul>
