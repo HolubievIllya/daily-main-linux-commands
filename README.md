@@ -85,6 +85,7 @@ Create a new directory.
 </ul>
 <p>Example of input: <b>mkdir NewDir</b></p>
 
+
 ## rmdir command
 Delete a directory.
 <ul>
