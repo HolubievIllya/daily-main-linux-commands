@@ -283,6 +283,7 @@ Provides the ability to launch and use multiple shell sessions from a single ssh
 Shuts down the system, but make sure to close all of your files to avoid data loss.
 <p>Example of input: <b>halt</b></p>
 
+
 ## ps command
 The ps command lists the currently running process.
 <p>Example of input: <b>ps aux</b></p>
