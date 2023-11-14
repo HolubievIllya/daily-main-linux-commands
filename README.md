@@ -271,6 +271,7 @@ Calculates the disk usage of a file or a directory.
 Reboot the system immediately.
 <p>Example of input: <b>reboot</b></p>
 
+
 ## screen command
 Provides the ability to launch and use multiple shell sessions from a single ssh session.
 <ul>
