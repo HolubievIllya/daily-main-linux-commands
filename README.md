@@ -289,6 +289,7 @@ Shuts down the system, but make sure to close all of your files to avoid data lo
 The ps command lists the currently running process.
 <p>Example of input: <b>ps aux</b></p>
 
+
 ## pkill command
 Kill a process.
 <p>Example of input: <b>pkill processName</b></p>
