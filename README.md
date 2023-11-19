@@ -77,6 +77,7 @@ Delete file or directory, and you must use –r in case you want to delete a dir
 </ul>
 <p>Example of input: <b>rm –r anotherDir/</b></p>
 
+
 ## mkdir command
 Create a new directory.
 <ul>
