@@ -281,6 +281,7 @@ Provides the ability to launch and use multiple shell sessions from a single ssh
 </ul>
 <p>Example of input: <b>screen -a</b></p>
 
+
 ## halt command
 Shuts down the system, but make sure to close all of your files to avoid data loss.
 <p>Example of input: <b>halt</b></p>
