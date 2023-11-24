@@ -297,6 +297,7 @@ The ps command lists the currently running process.
 Kill a process.
 <p>Example of input: <b>pkill processName</b></p>
 
+
 ## nano command
 You can edit file, if it doesn't exist command will create new one
 <p>Example of input: <b>nano</b></p>
