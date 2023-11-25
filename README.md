@@ -371,6 +371,7 @@ Writes a random permutation of the input lines to standard output.
 </ul>
 <p>Example of input: <b>shuf -n 25 hello.txt</b></p>
 
+
 ## cmp command
 Allows you to check if two files are identical.
 <ul>
