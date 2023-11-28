@@ -350,6 +350,7 @@ Show all open connections on your pс
 Shows ip and etc of your pc
 <p>Example of input: <b>ifconfig</b></p>
 
+
 ## w command
 Shows all users on your machine
 <p>Example of input: <b>w</b></p>
