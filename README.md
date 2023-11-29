@@ -39,6 +39,7 @@ The touch command is used to create an empty file.
 </ul>
 <p>Example of input: <b>touch -t 202012011200 test1</b></p>
 
+
 ## rm command
 You can easily delete single files
 <ul>
