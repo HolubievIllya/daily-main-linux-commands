@@ -29,6 +29,7 @@ Change directory from the current directory to another one.
 </ul>
 <p>Example of input: <b>cd /home</b></p>
 
+
 ## touch command
 The touch command is used to create an empty file.
 <p>Parameters:</p>
