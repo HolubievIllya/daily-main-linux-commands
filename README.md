@@ -306,6 +306,7 @@ Kill a process.
 You can edit file, if it doesn't exist command will create new one
 <p>Example of input: <b>nano</b></p>
 
+
 ## Get the version of GTK
 <p>Example of input: <b>dpkg -s libgtk-3-0|grep '^Version'</b></p>
 
