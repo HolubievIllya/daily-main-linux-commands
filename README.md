@@ -350,6 +350,7 @@ Show all open connections on your pс
 </ul>
 <p>Example of input: <b>netstat</b></p>
 
+
 ## ifconfig command
 Shows ip and etc of your pc
 <p>Example of input: <b>ifconfig</b></p>
