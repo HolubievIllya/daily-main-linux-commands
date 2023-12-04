@@ -360,6 +360,7 @@ Shows ip and etc of your pc
 Shows all users on your machine
 <p>Example of input: <b>w</b></p>
 
+
 ## wc command
 Finds out the number of newline count, word count, byte and character count in the files specified by the File arguments
 <ul>
