@@ -316,6 +316,7 @@ Runs command as superuser
 <p>Example of input: <b>sudo touch</b></p>
 
 
+
 ## top command
 Provides with information about all running processes
 <p>Example of input: <b>top</b></p>
