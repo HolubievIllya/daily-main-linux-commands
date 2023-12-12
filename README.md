@@ -345,6 +345,7 @@ Shows the ping of the website
 <p>Example of input: <b>ping www.google.com</b></p>
 
 
+
 ## netstat command
 Show all open connections on your pс
 <ul>
