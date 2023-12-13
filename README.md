@@ -337,6 +337,7 @@ Shows the hierarchy of files and folders in directory
 <p>Example of input: <b>tree</b></p>
 
 
+
 ## ping command
 Shows the ping of the website
 <ul>
