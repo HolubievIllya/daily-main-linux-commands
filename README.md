@@ -323,6 +323,7 @@ Provides with information about all running processes
 <p>Example of input: <b>top</b></p>
 
 
+
 ## free command
 Shows memory usage
 <p>Example of input: <b>free -h</b></p>
