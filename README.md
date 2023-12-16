@@ -312,6 +312,7 @@ You can edit file, if it doesn't exist command will create new one
 <p>Example of input: <b>dpkg -s libgtk-3-0|grep '^Version'</b></p>
 
 
+
 ## sudo command
 Runs command as superuser
 <p>Example of input: <b>sudo touch</b></p>
